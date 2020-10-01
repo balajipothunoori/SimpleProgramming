@@ -1,4 +1,7 @@
-main()
+#include<stdio.h>
+
+int main()
 {
-printf("BALAJI\n");
+  printf("BALAJI\n");
+  return 0;
 }
